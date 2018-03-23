@@ -198,7 +198,7 @@ public class ReverseProxy {
     private static void msg()
     {
     	System.out.println("\nJava NIO Reverse Proxy with AWSv4 Signing and SSL \n");
-		  System.out.println("Copyright 2017. Designed & Developed in India.\n");
+		  System.out.println("Copyright 2018. Designed & Developed in India.\n");
 		  System.out.println("Takes 1 argument pointing to a properties file\n");
 		  System.out.println("The following are the properties \n"
 		  		+ "keyStorePath : Location to the SSL keystore of the proxy server \n"
